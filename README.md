@@ -52,9 +52,15 @@
 
 ---
 
-## 📌 Featured Projects
-*(Coming soon — placeholders for future projects)*  
-- 🚧 Project slots reserved for your **Finance Analytics**, **AI Automation**, and **Data Engineering** work.
+## 📊 Featured Projects & Links
+
+| Project | Description | Tech Stack | View |
+|---------|-------------|------------|------|
+| **Employee Performance Mapping** | Interactive analytics identifying KPIs, exploring variables and navigating with the database | MySQL | [View Repo](https://github.com/zorrrooo/MySQL_Employee-Performance-Review_Data-Analysis) |
+| **Sales Performance Dashboard** | KPIs tracking and visual performance analysis for sales vs profits highlighting product categories | Excel | [View Repo](https://github.com/zorrrooo/Sales-Dashboard-in-Excel) |
+| **Multivariate Regression on R** | Analyzed 156 countries key macroeconomic indicators using Fixed & Random Effects Model on a panel data from World Bank Database | R, CSV | [View Repo](https://github.com/zorrrooo/Multivariate-Regression-on-R_Panel-Data) |
+| **Data Visualization on Power BI** | Visualized superstore sales and trends using Power BI to help identify high-profit products | Power BI | [View Repo](https://github.com/zorrrooo/Data-Visualization_PowerBI) |
+| **Income Variance Analysis in Excel** | Built an income variance file to capture the exact change in employee's income using VLOOKUP | Excel | [View Repo](https://github.com/zorrrooo/Income-Variance-Analysis_Data-Cleaning-and-Analysis_Excel) |
 
 ---
 
