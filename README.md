@@ -59,7 +59,7 @@
 | **Sales Performance Dashboard** | KPIs tracking and visual performance analysis for sales vs profits highlighting product categories | Excel | [View Repo](https://github.com/zorrrooo/Sales-Dashboard-in-Excel) |
 | **Multivariate Regression on R** | Analyzed 156 countries key macroeconomic indicators using Fixed & Random Effects Model on a panel data from World Bank Database (research publication)| R, CSV | [View Repo](https://github.com/zorrrooo/Multivariate-Regression-on-R_Panel-Data) |
 | **Data Visualization on Power BI** | Visualized superstore sales and trends using Power BI to help identify high-profit products | Power BI | [View Repo](https://github.com/zorrrooo/Data-Visualization_PowerBI) |
-| **Income Variance Analysis in Excel** | Built an income variance file to capture the exact change in employee's income using VLOOKUP | Excel | [View Repo](https://github.com/zorrrooo/Income-Variance-Analysis_Data-Cleaning-and-Analysis_Excel) |
+| **Income Variance Analysis on Excel** | Built an income variance file to capture the exact change in employee's income using VLOOKUP | Excel | [View Repo](https://github.com/zorrrooo/Income-Variance-Analysis_Data-Cleaning-and-Analysis_Excel) |
 
 ---
 
