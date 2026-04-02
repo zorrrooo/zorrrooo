@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Business Finance | Applied Research | GenAI Practitioner</h3>
 
 <p align="center">
-  <em>Finance and data analyst with a strong expertise in turning complex data into meaningful insights to drive business decisions.</em>
+  <em>Finance and data analyst with a strong expertise in turning complex data into meaningful insights to drive business decisions - expert in solving business problems by providing the right solutions using data proven by end-to-end projects.</em>
 </p>
 
 ---
