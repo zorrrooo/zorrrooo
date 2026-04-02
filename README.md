@@ -46,8 +46,9 @@
 
 ### **AI & Gen AI Tools**
 <p>
-  <img src="https://img.shields.io/badge/Gen%20AI-000000?logo=openai&logoColor=white" />
- </p>
+  <img src="https://img.shields.io/badge/OpenAI%20GPT--4-000000?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white" />
+</p>
 
 ---
 
