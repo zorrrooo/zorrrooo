@@ -58,11 +58,11 @@
 |---------|-------------|------------|------|
 | **Exploratory Data Analysis in Python** | Data analysis, visualization and reporting to detect credit card fraud using EDA | Python | [View Repo](https://github.com/zorrrooo/Exploratory-Data-Analysis_for_Credit-Card-Fraud-Detection/tree/main) |
 | **Employee Performance Mapping** | Interactive analytics identifying KPIs, exploring key variables and navigating with the database | MySQL | [View Repo](https://github.com/zorrrooo/MySQL_Employee-Performance-Review_Data-Analysis) |
-| **Sales Performance Dashboard** | KPIs tracking and visual performance analysis for sales vs profits highlighting product categories | Excel | [View Repo](https://github.com/zorrrooo/Sales-Dashboard-in-Excel) |
 | **Multivariate Regression in R** | Analyzed 156 countries key macroeconomic indicators using Fixed & Random Effects Model on a panel data from World Bank Database (research publication)| R | [View Repo](https://github.com/zorrrooo/Multivariate-Regression-on-R_Panel-Data) |
 | **Data Visualization in Power BI** | Visualized superstore sales and trends using Power BI to help identify high-profit products | Power BI | [View Repo](https://github.com/zorrrooo/Data-Visualization_PowerBI) |
 | **ETL Pipeline** | Built an ETL Pipeline using AWS Glue to extract, transform and load the data (end to end) | AWS | [View Repo](https://github.com/zorrrooo/ETL-Pipeline-AWS-Glue-) |
 | **Data Transformation in Power BI** | Used DAX command & built-in features to transform and manipulate data in Power BI by computing, merging, cleaning, splitting and modeling the data | Power BI | [View Repo](https://github.com/zorrrooo/Data-Transformation-in-Power-BI) |
+| **Sales Performance Dashboard** | KPIs tracking and visual performance analysis for sales vs profits highlighting product categories | Excel | [View Repo](https://github.com/zorrrooo/Sales-Dashboard-in-Excel) |
 
 ---
 
