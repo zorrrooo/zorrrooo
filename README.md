@@ -56,6 +56,7 @@
 
 | Project | Description | Tech Stack | View |
 |---------|-------------|------------|------|
+| **Exploratory Data Analysis in Python** | Data analysis, visualization and reporting to detect credit card fraud using EDA | Python | [View Repo](https://github.com/zorrrooo/Exploratory-Data-Analysis_for_Credit-Card-Fraud-Detection/tree/main) |
 | **Employee Performance Mapping** | Interactive analytics identifying KPIs, exploring key variables and navigating with the database | MySQL | [View Repo](https://github.com/zorrrooo/MySQL_Employee-Performance-Review_Data-Analysis) |
 | **Sales Performance Dashboard** | KPIs tracking and visual performance analysis for sales vs profits highlighting product categories | Excel | [View Repo](https://github.com/zorrrooo/Sales-Dashboard-in-Excel) |
 | **Multivariate Regression in R** | Analyzed 156 countries key macroeconomic indicators using Fixed & Random Effects Model on a panel data from World Bank Database (research publication)| R | [View Repo](https://github.com/zorrrooo/Multivariate-Regression-on-R_Panel-Data) |
