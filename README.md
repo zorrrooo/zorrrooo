@@ -57,7 +57,7 @@
 | Project | Description | Tech Stack | View |
 |---------|-------------|------------|------|
 | **End-to-End Data Analytics Project on Healthcare Management Data** | Identifying patterns associated with 30-day hospital readmissions and provide actionable insights | SQL, Python, Power BI, Excel | [View Repo](https://github.com/zorrrooo/End-to-End_Data-Analytics-Project-_on-Healthcare-Data) |
-| **Exploratory Data Analysis in Python** | Data analysis, visualization and reporting to detect credit card fraud using EDA | Python | [View Repo](https://github.com/zorrrooo/Exploratory-Data-Analysis_for_Credit-Card-Fraud-Detection/tree/main) |
+| **Exploratory Data Analysis in Python** | Data cleaning, analysis, visualization and reporting to detect credit card fraud using EDA | Python | [View Repo](https://github.com/zorrrooo/Exploratory-Data-Analysis_for_Credit-Card-Fraud-Detection/tree/main) |
 | **Employee Performance Mapping** | Interactive analytics identifying KPIs, exploring key variables and navigating with the database | SQL | [View Repo](https://github.com/zorrrooo/MySQL_Employee-Performance-Review_Data-Analysis) |
 | **Multivariate Regression in R** | Analyzed 156 countries key macroeconomic indicators using Fixed & Random Effects Model on a panel data from World Bank Database (research publication)| R | [View Repo](https://github.com/zorrrooo/Multivariate-Regression-on-R_Panel-Data) |
 | **Data Visualization in Power BI** | Visualized superstore sales and trends using Power BI to help identify high-profit products | Power BI | [View Repo](https://github.com/zorrrooo/Data-Visualization_PowerBI) |
