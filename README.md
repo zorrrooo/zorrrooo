@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi, I'm Zohaib 👋</h1>
-<h3 align="center">Data Analyst | Business Finance | Applied Research | GenAI Practitioner</h3>
+<h3 align="center">Financial Analyst | Business Finance | Applied Research | GenAI Practitioner</h3>
 
 <p align="center">
   <em>Finance and Data Analyst specializing in transforming complex data into actionable insights to drive business decisions, with proven experience delivering end-to-end analytics solutions across Finance, Retail, and Healthcare.</em>
