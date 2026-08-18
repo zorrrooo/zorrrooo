@@ -18,42 +18,7 @@
 <div>✔ Focused on transforming <strong>financial, operational, and analytical data into actionable insights</strong> that support strategic planning and business decisions</div>
 
 ---
-
-## 🛠️ Tech Stack
-
-### **Programming & Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
-</p>
-
-### **Data Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" />
-</p>
-
-### **Cloud & Pipelines**
-<p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-AWS%20Glue-blue" />
-</p>
-
-### **Enterprise Tools**
-<p>
-  <img src="https://img.shields.io/badge/PeopleSoft-003DA5?logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workday-0066CC?logo=workday&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cognos%20Analytics-052FAD?logo=ibm&logoColor=white" />
-</p>
-
-### **AI & Gen AI Tools**
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20GPT--4-000000?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white" />
-</p>
-
-
+##
 <h2>🛠️ Finance &amp; Technology Stack</h2>
 
 <h3>💰 Finance, FP&amp;A &amp; Corporate Finance</h3>
@@ -93,6 +58,7 @@
 <p>
   <strong>Generative AI</strong> • ChatGPT • AI-Assisted Financial Analysis • AI-Powered Analytics • Prompt Engineering
 </p>
+
 ---
 
 ## 📊 Featured Projects & Links
