@@ -24,9 +24,9 @@
 <h3>💰 Finance, FP&amp;A &amp; Corporate Finance</h3>
 
 <p>
-  📊 <strong>FP&amp;A:</strong> Budgeting • Forecasting • Variance Analysis • Financial Planning • Financial Modeling • Management Reporting • KPI Analysis<br>
-  💵 <strong>Corporate Finance:</strong> Financial Analysis • Income Statement Analysis • Cash Flow Analysis • Scenario Analysis • Business Performance Analysis<br>
-  📈 <strong>Financial Modeling:</strong> Three-Statement Modeling • Forecasting Models • What-If Analysis • Driver-Based Planning
+  📊 <strong>FP&amp;A:</strong> Budgeting • Forecasting • Variance Analysis • Financial Planning • Financial Modeling • KPI Analysis<br>
+  💵 <strong>Corporate Finance:</strong> Financial Analysis • Income Statement Analysis • Business Performance Analysis<br>
+  📈 <strong>Financial Modeling:</strong> • Forecasting Models
 </p>
 
 <h3>📊 Data Analytics &amp; Visualization</h3>
