@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 About Me
-✔ Data Analyst with experience in **Finance, Reporting, ETL Pipelines, and Applied Research**  
+✔ Financial Analyst with experience in **Data Analysis, Reporting and Operations**  
 ✔ Skilled in **SQL, Python, R, Power BI, Tableau, AWS, Workday, Cognos, PeopleSoft**  
-✔ Passionate about **Generative AI, Data Engineering, and Business Analytics**  
+✔ Passionate about **FP&A, Generative AI, Corporate Finance and Data Driven Decision Making**  
 ✔ Focused on building **real-world AI-powered analytics solutions**  
 
 ---
