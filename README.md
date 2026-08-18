@@ -53,6 +53,46 @@
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google&logoColor=white" />
 </p>
 
+
+<h2>🛠️ Finance &amp; Technology Stack</h2>
+
+<h3>💰 Finance, FP&amp;A &amp; Corporate Finance</h3>
+
+<p>
+  📊 <strong>FP&amp;A:</strong> Budgeting • Forecasting • Variance Analysis • Financial Planning • Financial Modeling • Management Reporting • KPI Analysis<br>
+  💵 <strong>Corporate Finance:</strong> Financial Analysis • Income Statement Analysis • Cash Flow Analysis • Scenario Analysis • Business Performance Analysis<br>
+  📈 <strong>Financial Modeling:</strong> Three-Statement Modeling • Forecasting Models • What-If Analysis • Driver-Based Planning
+</p>
+
+<h3>📊 Data Analytics &amp; Visualization</h3>
+
+<p>
+  <strong>Power BI</strong> • DAX • Power Query • Data Modeling • Power Pivot • Tableau • Advanced Excel • PivotTables
+</p>
+
+<h3>💻 Programming &amp; Data</h3>
+
+<p>
+  <strong>SQL</strong> • Python • R • Pandas • Data Analysis • Data Cleaning • Statistical Analysis
+</p>
+
+<h3>🏢 Enterprise Finance &amp; ERP Tools</h3>
+
+<p>
+  <strong>Workday</strong> • Workday Adaptive Planning • Cognos • PeopleSoft • Microsoft Excel • Financial Reporting Systems
+</p>
+
+<h3>☁️ Cloud &amp; Data Platforms</h3>
+
+<p>
+  <strong>AWS</strong> • Cloud Analytics • Data Integration • Data Pipelines
+</p>
+
+<h3>🤖 AI &amp; GenAI</h3>
+
+<p>
+  <strong>Generative AI</strong> • ChatGPT • AI-Assisted Financial Analysis • AI-Powered Analytics • Prompt Engineering
+</p>
 ---
 
 ## 📊 Featured Projects & Links
