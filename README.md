@@ -9,12 +9,15 @@
 ---
 
 ## 🚀 About Me
-💼 About Me
-Financial Analyst with experience in FP&A, financial planning, budgeting, forecasting, variance analysis, and financial reporting
-Experienced in financial operations, month-end reporting, income statement analysis, and data-driven decision-making
-Skilled in Excel, Power BI, SQL, Python, Workday, Cognos, and PeopleSoft for financial analysis and reporting
-Passionate about FP&A, Corporate Finance, Financial Modeling, and business performance analysis
-Focused on transforming financial and operational data into actionable insights that support strategic planning and business decisions 
+<h2>💼 About Me</h2>
+
+<ul>
+  <li><strong>Financial Analyst</strong> with experience in <strong>FP&amp;A, financial planning, budgeting, forecasting, variance analysis, and financial reporting</strong></li>
+  <li>Experienced in <strong>financial operations, month-end reporting, income statement analysis, and data-driven decision-making</strong></li>
+  <li>Skilled in <strong>Excel, Power BI, SQL, Python, Workday, Cognos, and PeopleSoft</strong> for financial analysis and reporting</li>
+  <li>Passionate about <strong>FP&amp;A, Corporate Finance, Financial Modeling, and business performance analysis</strong></li>
+  <li>Focused on transforming <strong>financial and operational data into actionable insights</strong> that support strategic planning and business decisions</li>
+</ul>
 
 ---
 
