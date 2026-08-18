@@ -9,10 +9,11 @@
 ---
 
 ## 🚀 About Me
-✔ Financial Analyst with experience in **Data Analysis, Reporting and Operations**  
-✔ Skilled in **SQL, Python, R, Power BI, Tableau, AWS, Workday, Cognos, PeopleSoft**  
-✔ Passionate about **FP&A, Generative AI, Corporate Finance and Data Driven Decision Making**  
-✔ Focused on building **real-world AI-powered analytics solutions**  
+✔ Financial Analyst with experience in **FP&A, financial planning, budgeting, forecasting, variance analysis, and financial reporting** 
+✔ Experienced in **financial operations, month-end reporting, income statement analysis, and data-driven decision-making**
+✔ Skilled in **Excel, Power BI, SQL, Python, Workday, Cognos, and PeopleSoft for financial analysis and reporting**
+✔ Passionate about **FP&A, Corporate Finance, Financial Modeling, and business performance analysis**
+✔ Focused on transforming **financial and operational data into actionable insights that support strategic planning and business decisions**
 
 ---
 
