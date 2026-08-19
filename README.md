@@ -19,45 +19,15 @@
 
 ---
 ##
-<h2>🛠️ Finance &amp; Technology Stack</h2>
+## 🛠️ Finance & Technology Stack
 
-<h3>💰 Finance, FP&amp;A &amp; Corporate Finance</h3>
+**💰 Finance & FP&A:** FP&A • Budgeting • Forecasting • Variance Analysis • Financial Modeling • Financial Reporting
 
-<p>
-  📊 <strong>FP&amp;A:</strong> Budgeting • Forecasting • Variance Analysis • Financial Planning • Financial Modeling • KPI Analysis<br>
-  💵 <strong>Corporate Finance:</strong> Financial Analysis • Income Statement Analysis • Business Performance Analysis<br>
-  📈 <strong>Financial Modeling:</strong> • Forecasting Models
-</p>
+**📊 Analytics:** Excel • Power BI • DAX • Power Query • Tableau • SQL • Python • R
 
-<h3>📊 Data Analytics &amp; Visualization</h3>
+**🏢 Enterprise Finance:** Workday • PeopleSoft • Cognos Reporting
 
-<p>
-  <strong>Power BI</strong> • DAX • Power Query • Data Modeling • Power Pivot • Tableau • Advanced Excel • PivotTables
-</p>
-
-<h3>💻 Programming &amp; Data</h3>
-
-<p>
-  <strong>SQL</strong> • Python • R • Pandas • Data Analysis • Data Cleaning • Statistical Analysis
-</p>
-
-<h3>🏢 Enterprise Finance &amp; ERP Tools</h3>
-
-<p>
-  <strong>Workday</strong> • Workday Adaptive Planning • Cognos • PeopleSoft • Microsoft Excel • Financial Reporting Systems
-</p>
-
-<h3>☁️ Cloud &amp; Data Platforms</h3>
-
-<p>
-  <strong>AWS</strong> • Cloud Analytics • Data Integration • Data Pipelines
-</p>
-
-<h3>🤖 AI &amp; GenAI</h3>
-
-<p>
-  <strong>Generative AI</strong> • ChatGPT • AI-Assisted Financial Analysis • AI-Powered Analytics • Prompt Engineering
-</p>
+**🤖 AI & GenAI:** ChatGPT • Claude • Gemini • Copilot • Julius AI • Prompt Engineering
 
 ---
 
