@@ -6,12 +6,6 @@
   <em>Finance and FP&A Analyst specializing in financial planning, budgeting, forecasting, variance analysis, and data-driven decision-making, with a strong foundation in financial and business analytics.</em>
 </p>
 
-<p align="center">
-  <em>Finance and FP&A Analyst focused on financial planning, budgeting, forecasting, variance analysis, and data-driven business decision-making.</em>
-</p>
-
-
-
 ---
 
 ## 
