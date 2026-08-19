@@ -23,11 +23,11 @@
 
 **💰 Finance & FP&A:** FP&A • Budgeting • Forecasting • Variance Analysis • Financial Modeling • Financial Reporting
 
-**📊 Analytics:** Excel • Power BI • Tableau • SQL • Python • R
+**📊 Analytics:** Excel • Power BI • DAX • Power Query • Tableau • SQL • Python • R • ETL Pipelines (AWS Glue)
 
-**🏢 Enterprise Finance:** Workday Planning • PeopleSoft • Cognos Reporting
+**🏢 Enterprise Finance:** Workday • PeopleSoft • Cognos Reporting
 
-**🤖 AI & GenAI:** ChatGPT • Claude • Gemini • Copilot • Julius AI • Prompt Engineering
+**🤖 AI & GenAI:** ChatGPT • Claude • Gemini • Copilot • Hulius AI • MOSTLY AI • Prompt Engineering
 
 ---
 
