@@ -23,7 +23,7 @@
 
 **💰 Finance & FP&A:** FP&A • Budgeting • Forecasting • Variance Analysis • Financial Modeling • Financial Reporting
 
-**📊 Analytics:** Excel • Power BI • DAX • Power Query • Tableau • SQL • Python • R • ETL Pipelines (AWS Glue)
+**📊 Analytics:** Excel • Power BI • Tableau • SQL • Python • R • ETL Pipelines (AWS Glue)
 
 **🏢 Enterprise Finance:** Workday • PeopleSoft • Cognos Reporting
 
