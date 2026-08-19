@@ -27,7 +27,7 @@
 
 **🏢 Enterprise Finance:** Workday • PeopleSoft • Cognos Reporting
 
-**🤖 AI & GenAI:** ChatGPT • Claude • Gemini • Copilot • Hulius AI • MOSTLY AI • Prompt Engineering
+**🤖 AI & GenAI:** ChatGPT • Claude • Gemini • Copilot • Julius AI • Prompt Engineering
 
 ---
 
