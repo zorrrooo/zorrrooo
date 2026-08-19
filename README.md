@@ -6,6 +6,9 @@
   <em>Finance and Data Analyst specializing in transforming complex data into actionable insights to drive business decisions, with proven experience delivering end-to-end analytics solutions across Finance, Retail, and Healthcare.</em>
 </p>
 
+<p align="center">
+  <em>Finance and FP&A Analyst focused on financial planning, budgeting, forecasting, variance analysis, and data-driven business decision-making.</em>
+</p>
 ---
 
 ## 
